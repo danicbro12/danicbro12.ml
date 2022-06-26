@@ -49,13 +49,13 @@ body.on {
 }
 
 .container {
-	max-width: 750px;
+	max-width: 1000px;
 	margin: 0 auto;
 	padding: 0 20px;
 }
 
 .main {
-	height: 200vh;
+	height: 100vh;
 }
 
 .scroll-down {
@@ -159,7 +159,7 @@ body.on {
 }
 
 .jumbotron-items .jumbotron-item {
-	max-width: 250px;
+	max-width: 450px;
 }
 
 .jumbotron-items .jumbotron-item img {
