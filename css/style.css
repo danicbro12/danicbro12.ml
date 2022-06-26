@@ -55,7 +55,7 @@ body.on {
 }
 
 .main {
-	height: 100vh;
+	height: 85vh;
 }
 
 .scroll-down {
@@ -150,7 +150,7 @@ body.on {
 
 /* jumbotron */
 .jumbotron {
-	margin-top: 100px;
+	margin-top: 200px;
 }
 
 .jumbotron-items {
