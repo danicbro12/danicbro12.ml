@@ -276,10 +276,6 @@ body.on {
 	.jumbotron-items .jumbotron-item {
 		text-align: center;
 	}
-
-	.jumbotron-items .jumbotron-item img {
-		display: none;
-	}
 	/* navbar mobile version end */
 
 	/* features mobile version */
