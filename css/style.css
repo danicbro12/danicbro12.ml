@@ -155,11 +155,11 @@ body.on {
 }
 
 .jumbotron-items .jumbotron-item {
-	border-radius: 4px;
 	max-width: 450px;
 }
 
 .jumbotron-items .jumbotron-item img {
+	border-radius: 4px;
 	width: 250px;
 	height: auto;
 }
