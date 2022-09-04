@@ -159,7 +159,7 @@ body.on {
 }
 
 .jumbotron-items .jumbotron-item img {
-	border-radius: 4px;
+	border-radius: 15px;
 	width: 250px;
 	height: auto;
 }
